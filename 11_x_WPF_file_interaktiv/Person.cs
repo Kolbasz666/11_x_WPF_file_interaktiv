@@ -19,7 +19,6 @@ namespace _11_x_WPF_file_interaktiv
             this.Height = Height;
             this.Weight = Weight;
         }
-
         public Person() {
             Weight = 80;
             Height = 190;

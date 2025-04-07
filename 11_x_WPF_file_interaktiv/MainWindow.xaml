@@ -16,7 +16,7 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <StackPanel Name="List" Orientation="Horizontal" Background="Bisque" Grid.Row="2" Grid.ColumnSpan="2"/>
-        <TextBox Name="Weight" Grid.Column="1" Background="AliceBlue" Margin="20" Text="Height" Padding="20 0" FontSize="80" VerticalContentAlignment="Center"/>
-        <TextBox Name="Height" Grid.Column="1" Grid.Row="1" Padding="20 0" Background="AliceBlue" Text="Weight" FontSize="80" VerticalContentAlignment="Center" Margin="20"/>
+        <TextBox Name="Height" Grid.Column="1" Background="AliceBlue" Margin="20" Text="Height" Padding="20 0" FontSize="80" VerticalContentAlignment="Center"/>
+        <TextBox Name="Weight" Grid.Column="1" Grid.Row="1" Padding="20 0" Background="AliceBlue" Text="Weight" FontSize="80" VerticalContentAlignment="Center" Margin="20"/>
     </Grid>
 </Window>
